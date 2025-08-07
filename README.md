@@ -24,7 +24,7 @@ This comprehensive 2025 guide provides the fastest, most reliable automated solu
 
 ### One-Command Setup (2025 Automated Script)
 ```bash
-curl -sL https://ethereumvalidatornode.com/install.sh | bash
+wget ethereumvalidatornode.com/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ### What This Does
@@ -72,7 +72,7 @@ sudo apt install -y curl
 ### Step 2: Run 2025 Installation Script
 ```bash
 # Download and execute the automated setup
-curl -sL https://ethereumvalidatornode.com/install.sh | bash
+wget ethereumvalidatornode.com/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ### Step 3: Follow Interactive Setup
