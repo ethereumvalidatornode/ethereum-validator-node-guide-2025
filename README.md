@@ -350,4 +350,4 @@ If this guide helped you successfully set up your Ethereum validator:
 
 **Ready to start earning maximum staking rewards in 2025? Visit [EthereumValidatorNode.com](https://ethereumvalidatornode.com) for the complete 15-minute automated setup experience with the latest 2025 methods.**
 
-*Last updated: January 2025 - Latest validator setup methods and best practices*
+*Last updated: August 2025 - Latest validator setup methods and best practices*
